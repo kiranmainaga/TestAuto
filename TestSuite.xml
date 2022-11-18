@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Testing Google Apps">
+    <test name="SmokeSuite">
+         <classes>
+             <class name="smokeSuite.Anesco_LoginTest"/>
+             </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->
